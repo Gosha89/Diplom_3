@@ -1,0 +1,14 @@
+model\RegistrationCard.class
+api\DeleteApi.class
+pageObject\MainPage.class
+pageObject\RegistrationPage.class
+config\Config.class
+api\BaseClient.class
+random\RandomIndex.class
+pageObject\ProfilePage.class
+model\LoginCard.class
+api\PostApi.class
+browser\GetBrowser.class
+pageObject\ForgotPasswordPage.class
+api\GetApi.class
+pageObject\LoginPage.class
